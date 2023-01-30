@@ -1,0 +1,5 @@
+user path: http://localhost:8099/user/1223
+contact path: http://localhost:8098/contact/user/1212
+Eureka path: http://localhost:8761/
+apigateway path: http://localhost:8097/contact/user/1212
+		     http://localhost:8097/user/1212
